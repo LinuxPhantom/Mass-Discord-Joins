@@ -34,8 +34,8 @@ Before you begin, ensure you have met the following requirements:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/YourGitHubUsername/DiscordAccountSwitcher.git
-    cd DiscordAccountSwitcher
+    git clone https://github.com/LinuxPhantom/Mass-Discord-Joins.git
+    cd Mass-Discord-Joins
     ```
 
 2. **Set up a virtual environment (recommended)**:
