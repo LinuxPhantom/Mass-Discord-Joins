@@ -1,6 +1,6 @@
 # Mass Discord Joins 🔄
 
-![Mass Discord Joins Menu](Main.jpg)
+![Mass Discord Joins Menu](main.jpg)
 
 A utility built for educational purposes, the Discord Account Switcher allows automated switching and logging into multiple Discord accounts to join servers via invite links.
 
