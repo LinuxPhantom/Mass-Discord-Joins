@@ -2,6 +2,8 @@
 
 ![Mass Discord Joins Menu](main.jpg)
 
+![](https://komarev.com/ghpvc/?username=LinuxPhantom)
+
 A utility built for educational purposes, the Discord Account Switcher allows automated switching and logging into multiple Discord accounts to join servers via invite links.
 
 ## Table of Contents
